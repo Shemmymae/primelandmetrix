@@ -38,12 +38,10 @@ export default function Services() {
     <section id="services" className="py-20 bg-gradient-to-br from-gray-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Our <span className="bg-gradient-to-r from-emerald-700 to-blue-700 bg-clip-text text-transparent">Services</span>
-          </h2>
+          
           <div className="w-24 h-1 bg-gradient-to-r from-emerald-600 to-blue-600 mx-auto rounded-full mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Comprehensive land surveying and geospatial solutions tailored to your project needs
+            Professional solutions built on precision, delivered with expertise
           </p>
         </div>
 

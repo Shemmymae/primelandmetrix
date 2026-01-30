@@ -16,7 +16,7 @@ export default function TeamPage() {
             </h1>
             <div className="w-24 h-1 bg-amber-400 mx-auto rounded-full mb-8"></div>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto mb-12">
-              Expert professionals bringing decades of combined experience in land surveying, geospatial analysis, and project management
+              Skilled specialists committed to excellence in every measurement and analysis
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mt-12">
               {[

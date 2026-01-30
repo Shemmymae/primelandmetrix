@@ -20,7 +20,7 @@ export default function ContactPage() {
             </h1>
             <div className="w-24 h-1 bg-amber-400 mx-auto rounded-full mb-8"></div>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto mb-12">
-              Have questions about our services? We'd love to hear from you. Reach out to our team for a consultation.
+              Let's discuss your project needs and find the perfect surveying solution for you.
             </p>
             <div className="flex flex-wrap justify-center gap-6">
               {[

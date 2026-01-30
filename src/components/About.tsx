@@ -14,13 +14,13 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
           <div>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              PrimelandMetrix is a leading provider of land surveying and geospatial services, committed to
-              delivering precise measurements and insightful data to support development, planning, and
-              investment decisions.
+              We transform complex land data into clear, actionable intelligence. From boundary determination
+              to comprehensive site analysis, our services provide the foundation for confident decision-making
+              in development and construction projects.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Leveraging state-of-the-art technology and a team of highly skilled professionals, we ensure
-              that every project meets the highest standards of accuracy and reliability.
+              Every survey we conduct combines technical precision with practical insight, ensuring you have
+              the reliable information needed to move your projects forward efficiently and successfully.
             </p>
           </div>
 
@@ -58,16 +58,16 @@ export default function About() {
         <div className="bg-gradient-to-br from-emerald-50 to-blue-50 rounded-2xl p-8 md:p-12">
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Industry</h3>
-              <p className="text-gray-700">Land Surveying, Geospatial Services, Mapping & Metrics</p>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">What We Do</h3>
+              <p className="text-gray-700">Professional surveying and spatial data services nationwide</p>
             </div>
             <div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Specialization</h3>
-              <p className="text-gray-700">Precision Land Measurement & Analysis</p>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">How We Work</h3>
+              <p className="text-gray-700">Advanced tools and methodologies for superior results</p>
             </div>
             <div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Commitment</h3>
-              <p className="text-gray-700">Highest Standards of Accuracy & Reliability</p>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Why Choose Us</h3>
+              <p className="text-gray-700">Proven track record of delivering on time and on target</p>
             </div>
           </div>
         </div>
