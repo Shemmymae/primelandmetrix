@@ -1,4 +1,5 @@
 import { Linkedin, Twitter, Facebook } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
   const scrollToSection = (id: string) => {
@@ -84,9 +85,9 @@ export default function Footer() {
               &copy; 2026 PrimelandMetrix. All rights reserved.
             </p>
             <div className="flex flex-wrap justify-center md:justify-end gap-6 text-sm text-gray-400">
-              <a href="#" className="hover:text-emerald-400 transition-colors">Privacy Policy</a>
-              <a href="#" className="hover:text-emerald-400 transition-colors">Terms of Service</a>
-              <a href="#" className="hover:text-emerald-400 transition-colors">Cookie Policy</a>
+              <Link to="/privacy-policy" className="hover:text-emerald-400 transition-colors">Privacy Policy</Link>
+              <Link to="/terms-of-service" className="hover:text-emerald-400 transition-colors">Terms of Service</Link>
+              <Link to="/cookie-policy" className="hover:text-emerald-400 transition-colors">Cookie Policy</Link>
             </div>
           </div>
         </div>
