@@ -18,7 +18,7 @@ export default function ServicesPage() {
             </h1>
             <div className="w-24 h-1 bg-amber-400 mx-auto rounded-full mb-8"></div>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto mb-12">
-              Comprehensive land surveying, mapping, and geospatial solutions designed to meet your project needs with precision and expertise
+              From initial site assessment to final documentation, we provide end-to-end surveying services that keep your projects on track
             </p>
             <div className="flex flex-wrap justify-center gap-6 mt-8">
               {[

@@ -18,13 +18,13 @@ export default function Team() {
             </div>
 
             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-              Expert Professionals Dedicated to Your Success
+              Professionals You Can Trust
             </h3>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Our expert team is committed to delivering precise results for every project. With decades of
-              combined experience in land surveying, geospatial analysis, and project management, we bring
-              unparalleled expertise to every engagement.
+              Behind every successful project stands a team of certified specialists who understand that
+              accuracy matters. Our professionals combine technical mastery with real-world problem-solving
+              to deliver solutions that exceed expectations.
             </p>
 
             <div className="grid md:grid-cols-3 gap-6 mt-10">

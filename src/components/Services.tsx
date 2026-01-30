@@ -43,7 +43,7 @@ export default function Services() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-emerald-600 to-blue-600 mx-auto rounded-full mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Comprehensive land surveying and geospatial solutions tailored to your project needs
+            Professional solutions built on precision, delivered with expertise
           </p>
         </div>
 
